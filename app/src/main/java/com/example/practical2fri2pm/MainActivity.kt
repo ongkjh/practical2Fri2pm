@@ -43,5 +43,6 @@ class MainActivity : AppCompatActivity() {
         editText.visibility = View.VISIBLE
         doneButton.visibility = View.VISIBLE
         view.visibility = View.GONE
+        //comment
     }
 }
